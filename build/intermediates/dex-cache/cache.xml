@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_c610f911f627eba77c78c40cd71c123518cb0161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-11.0.4_d4d89230feecdbef6f87b8f1491eae8656d17f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_f704a87da58414bfeaf86bba19a8d7e162d06968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1c470e820c29c9ea15b616bbf12a5492f30d1768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_daa81301182b2ab51b511509f9ee8d6a998c50da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.2.1_d27c3eff933a8d1a57971e501dc6f8ce5bcd3478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_f5b6ea88277d76a4ed3709d19961e0071099be9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_8b205b564f473db414d5cb08b3784d2eb5ce0e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_60dd348a1d450775c75871c4125b880dbfc3570b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_00fc065e5933a690391899e3d5ec8a7c68aaea5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_a93590d490904f2b93ceae55ae190f46891c5d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_f03a7906f554ac194b991938f755a799f2ea009a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\1.0.354\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9b1a002a8b4bdd3d66cbadfdc4b16dfabd8e1042">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-vision-1.0.354_16b34abd12946335752de277c6890347b75fd6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_660f3d63aa8744d39df22f810889bdea517926d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_9731b7e2a27fd99b33c6e6812d6d72e29bf4fddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_7b9fa2e180dc10f2c8596981a9813f5bd16b6dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_8e81993f142bb05d51b78d3b9db0dd7a76e71aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_8ac0e89768388e500bbb7a037a925b1b0b84df9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\1.0.354\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\commons-io-2.4_3f9e334642356e1641dd0dc85b0e942c6eb0ce36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\gson-2.3.1_4b290de5bfb5b45514448198a70e260622a75749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_d79132adccb646431332eedb12566d4a4e81f453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ridhima gandhi\Desktop\Virtual Eyes\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_94f88d06cb5c5164ac938780ce173aa808f127bd.jar" />
+    </item>
+
+</items>
